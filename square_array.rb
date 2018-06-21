@@ -7,4 +7,6 @@ def square_array(array)
   end
   
   temp_array
+  
+  array.collect{
 end
