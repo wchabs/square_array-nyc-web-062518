@@ -8,5 +8,5 @@ def square_array(array)
   
   temp_array
   
-  array.collect{
+  array.collect { |number| 
 end
